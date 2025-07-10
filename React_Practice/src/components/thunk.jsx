@@ -1,0 +1,1 @@
+const applyMiddleware = redux.applyMiddleware
